@@ -1,6 +1,8 @@
 # when child classes implementing similar logic that is different
 # from parent which will cause code duplication
 
+# this pattern should be used when there is a requirement to alter algorithms on runtime without changing the code context.
+
 # Storage Provider Strategy implementations
 
 from abc import abstractmethod, ABC
