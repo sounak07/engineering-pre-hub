@@ -2,6 +2,22 @@
 
 This file contains all the low level system design resources
 
+## Concepts
+
+- [SOLIDs](https://github.com/sounak07/EngineeringPrepHub/blob/main/LLD/solids.md)
+
+## Interview Questions (Python)
+
+- [Design a Parking lot](https://github.com/sounak07/EngineeringPrepHub/blob/main/LLD/Interview-questions/parking-lot.py)
+- [Design a hash map](https://github.com/sounak07/EngineeringPrepHub/blob/main/LLD/Interview-questions/hash_maps.py)
+
+## OOP Patterns
+
+- [Abstract Factory](https://github.com/sounak07/EngineeringPrepHub/blob/main/LLD/patterns/abstract_factory.py)
+- [Decorator Pattern](https://github.com/sounak07/EngineeringPrepHub/blob/main/LLD/patterns/decorator_pattern.py)
+- [Observer Pattern](https://github.com/sounak07/EngineeringPrepHub/blob/main/LLD/patterns/observer_pattern.py)
+- [Strategy Pattern](https://github.com/sounak07/EngineeringPrepHub/blob/main/LLD/patterns/strategy_pattern.py)
+
 
 ## Resources
 
@@ -18,7 +34,5 @@ This file contains all the low level system design resources
 
 
 
-## Concepts
 
-- [SOLIDs]()
 
