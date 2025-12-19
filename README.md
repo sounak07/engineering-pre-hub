@@ -13,11 +13,16 @@ This repository aims at providing collated content at a single place to prepare 
 - [Low Level Design (OOPS)](#low-level-system-design)
 - [High Level Design / System Design](#high-level-system-design)
 - [Data Structures & Algorithms](#data-structures-and-algorithms)
+- [AI Agents](#ai-agents)
 - [FrontEnd Resources](#frontend-resources)
 - [Great Python](#great-python)
 - [Large Language Models](#large-language-models)
 - [Learn Shell & Bash](#learn-shell-bash)
 - [Interview Experiences](#interview-experiences)
+- [Behavioral Interviews](#behavioral-interviews)
+- [Learn Go](#learn-go)
+- [SQL](#sql)
+- [Operating Systems](#operating-systems)
 
 ---
 
@@ -43,6 +48,7 @@ This section contains all the low level system design resources.
 
 ### LLD Resources
 
+- [LLD by Aryan](https://codewitharyan.com/system-design/low-level-design)
 - [LLD Shrayansh Jain](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
 - [LLD Primer](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
 - [LLD Problem (Youtube - The Tech Granth)](https://www.youtube.com/watch?v=zRz1GPSH50I&list=PLJN9ydlFnJsiEgyjO3D3yBhtiENymhF8G)
@@ -53,6 +59,9 @@ This section contains all the low level system design resources.
 - [Design Patterns OOP (Best)](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 - [LLDCoding](https://lldcoding.com/)
 - [Grokking Low Level Design](https://github.com/tssovi/grokking-the-object-oriented-design-interview/tree/master)
+- [Grokking Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-interview)
+- [LLD Ashish Pratap](https://algomaster.io/learn/lld)
+- [LLD Ashish Pratap Github Repo](https://github.com/ashishps1/awesome-low-level-design)
 
 ---
 
@@ -63,8 +72,8 @@ This section contains all the high level system design resources.
 ### Resource Hub System Design (Free)
 
 - [High Level Design (Shrayansh Jain)](https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7)
-- [Awesome Software Engineering Interview (Very Good)](https://github.com/imkgarg/Awesome-Software-Engineering-Interview) 
-- [System Design Primer](https://github.com/donnemartin/system-design-primer#study-guide) 
+- [Awesome Software Engineering Interview (Very Good)](https://github.com/imkgarg/Awesome-Software-Engineering-Interview)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer#study-guide)
 - [Resource for System Design (Leetcode)](https://leetcode.com/discuss/interview-question/system-design/457451/Resources-for-System-Design)
 - [Neo Kim all Newletters](https://github.com/systemdesign42/system-design?tab=readme-ov-file#c-technologies)
 - [Interview Ready](https://github.com/InterviewReady/system-design-resources)
@@ -73,11 +82,11 @@ This section contains all the high level system design resources.
 - [System Design Template - Leetcode](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
 - [Tech Blog Collection](https://github.com/kilimchoi/engineering-blogs)
 - [DDIA Mind Maps](https://medium.com/@Joker3D/mind-maps-of-designing-data-intensive-application-2b7556be92b3)
-- [Microservice Arch](https://github.com/sanyathisside/System-Design) 
+- [Microservice Arch](https://github.com/sanyathisside/System-Design)
 - [High Scalability](https://highscalability.com/)
 - [Microservice Architecture Patterns](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles)
 - [Grokking Course Mine](https://github.com/judylime/grokking/tree/main)
-- [Github Gist Advanced System Design](https://gist.github.com/anilpai/0da860c8295668571c4fa9fc07638e1c)  
+- [Github Gist Advanced System Design](https://gist.github.com/anilpai/0da860c8295668571c4fa9fc07638e1c)
 - [Microservice Patterns Code examples (Book)](https://github.com/microservices-patterns/ftgo-application)
 - [High Performance Programming (Youtube)](https://www.youtube.com/@HighPerformanceProgramming/playlists)
 - [Operating Systems(Book)](https://www.os-book.com/OS9/slide-dir/index.html)
@@ -92,6 +101,12 @@ This section contains all the high level system design resources.
 - [Tech Primers (Youtube)](https://www.youtube.com/@TechPrimers/playlists)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 - [HLD Approach Technique](https://docs.google.com/document/d/17ECT4T4_2LV5nrNQeZ68WaeboE2EjI3Jb3oFZLKFQUs/mobilebasic)
+- [Design Patterns in Engineering](https://github.com/DovAmir/awesome-design-patterns)
+- [System Design Course Karan Pratap Singh](https://www.karanpratapsingh.com/courses/system-design)
+- [Microservices Architecture](https://m.youtube.com/playlist?list=PLJq-63ZRPdBsPWE24vdpmgeRFMRQyjvvj)
+- [Read about Performance](https://github.com/daniellockyer/awesome-performance?tab=readme-ov-file)
+- [Best System Design Resources](https://github.com/javabuddy/best-system-design-resources)
+- [Tech Vault | Tech Q&A](https://github.com/moabukar/tech-vault)
 
 ### Resource Hub System Design (Paid)
 
@@ -100,6 +115,7 @@ This section contains all the high level system design resources.
 
 ### HLD Case Studies
 
+- [Backend Engineering from first Principls](https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1)
 - [Design Case Study (Youtube - System Design Interview)](https://www.youtube.com/@SystemDesignInterview/videos)
 - [Design Case Study (Youtube - The Stupid CS)](https://www.youtube.com/playlist?list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek)
 - [Design Case Study (Youtube - CodeKarle)](https://www.youtube.com/watch?v=3loACSxowRU&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
@@ -109,6 +125,7 @@ This section contains all the high level system design resources.
 - [Design Case Study Practice](https://leetdesign.com)
 - [Design Case Studies (Hello Interview)](https://www.youtube.com/playlist?list=PL5q3E8eRUieWtYLmRU3z94-vGRcwKr9tM)
 - [Design Case Studies Exponent](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
+- [Design Case Studies by Himanshu Goyal](https://www.youtube.com/playlist?list=PLTKDToFYA6oWturN7esU_oxQrySNJ_I_N)
 - [Engineering blogs](https://draft.dev/learn/engineering-blogs)
 - [Engineering Videos](https://www.youtube.com/playlist?list=PLwrbo0b_XxA-4DuI2ptUw809hymgUFkgo)
 - [Hello Interview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
@@ -120,6 +137,7 @@ This section contains all the high level system design resources.
 - [How Slack works](https://www.youtube.com/watch?v=WE9c9AZe-DY&t=56s)
 - [How Netflix uses Java](https://www.youtube.com/watch?v=BaUrpq_7KMk)
 - [Scaling Shopify for Flash Sales](https://www.youtube.com/watch?v=MV5Kdwzwcag)
+- [Good API Design](https://www.seangoedecke.com/good-api-design/)
 
 ### Distributed Systems
 
@@ -132,14 +150,18 @@ This section contains all the high level system design resources.
 - [Low Latency Systems](https://arxiv.org/pdf/2309.04259)
 - [Its all about Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://netman.aiops.org/~peidan/ANM2019/7.TraceAnomalyDetection/ReadingList/2010Google_Dapper.pdf)
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442)
 
 ### Databases
 
 - [How database works (Write Your own database)](https://cstack.github.io/db_tutorial/)
+- [Build your own KV Database](https://www.nan.fyi/database)
 - [PostgresQL Snowflake blogs](https://www.snowdba.com/postgresql-blogs/)
 - [Database Concepts (Core Dump)](https://www.youtube.com/playlist?list=PLwrbo0b_XxA8BaxKRHuGHAQsBrmhYBsh1)
 - [Postgres Query Optimizer](https://www.youtube.com/watch?v=RNDTO33hVtY)
 - [Database Tuning by Zerodha](https://www.youtube.com/watch?v=XB2lF_Z9cbs)
+- [Idempotency](https://www.morling.dev/blog/on-idempotency-keys/)
 
 ### Project Ideas
 
@@ -163,6 +185,11 @@ This section contains all the DS Algo resources.
 - [10 line substring solving template](https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/)
 - [MIT - Intro to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [Grokking DSA Patterns](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
+- [DSA Patterns](https://algomaster.io/practice/dsa-patterns)
+- [Cracking FAANG DSA](https://www.youtube.com/@crackfaang/playlists)
+- [Grokking DSA Patterns](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
+- [Patterns in DP](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
+- [CodeStoryWithMik DSA](https://www.youtube.com/@codestorywithMIK/playlists)
 
 ### Practice Sheets
 
@@ -170,12 +197,14 @@ This section contains all the DS Algo resources.
 - [Work@tech](https://workat.tech/problem-solving/practice)
 - [The Only Lists You Need For Your Interview Preparation](https://leetcode.com/discuss/interview-question/2069641/The-Only-Lists-You-Need-For-Your-Interview-Preparation)
 - [Striver AtoZ](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
-- [Company Wise (**)](https://docs.google.com/spreadsheets/d/1Xs72vSUcMR119L8sCvcbzD4b1yx_t4cd/htmlview#)
+- [Company Wise (\*\*)](https://docs.google.com/spreadsheets/d/1Xs72vSUcMR119L8sCvcbzD4b1yx_t4cd/htmlview#)
 - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 - [CSES Problem Set](https://cses.fi/problemset/)
 - [List of questions sorted by common patterns](https://leetcode.com/discuss/interview-question/448285/List-of-questions-sorted-by-common-patterns)
 - [Useful links from all over the LeetCode](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
 - [Leetcode Questions Sorted by Vote Count](https://leetcode.com/discuss/general-discussion/462981/leetcode-questions-sorted-by-vote-count-updated)
+- [Company wise github Repo](https://github.com/liquidslr/leetcode-company-wise-problems/tree/main)
+- [Company Wise (Leetcodewizard)](https://leetcodewizard.io/problem-database)
 
 ### Graph
 
@@ -195,6 +224,12 @@ This section contains all the DS Algo resources.
 - [DP Everyday list](https://leetcode.com/discuss/general-discussion/665187/everyday-dp-challenge-list)
 - [DP Sheet](https://docs.google.com/document/d/1eYZZFKfCTE5kJcmGIYybHaDdpqWgYwRZlwwUOmHz4Kg/edit?tab=t.0)
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
+
+---
+
+## AI Agents
+
+- [Memory in AI Agents](https://www.leoniemonigatti.com/blog/memory-in-ai-agents.html)
 
 ---
 
@@ -225,16 +260,15 @@ This section contains all the Python related resources.
 - [Internals By Arpit Bhayani](https://arpitbhayani.me/knowledge-base/language-internals)
 - [Honest Python by Arpit Bhayani](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT12HU6v00VlcZ18ckWRGxXU)
 - [Python (CPython internals) - by Philip Guo](https://www.youtube.com/playlist?list=PLV7iu6GiDKwQWZbapY5mPEQa0V1OgC358)
+- [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
+- [Python Metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
 
 ---
 
 ## Large Language Models
 
-This section contains all the resources on LLMs.
-
-### Concepts
-
 - [Andrej Karpathy's LLM](https://www.youtube.com/@AndrejKarpathy/videos)
+- [All in one LLM](https://github.com/mlabonne/llm-course)
 
 ---
 
@@ -258,6 +292,28 @@ This section contains all the noteworthy interview experiences.
 - [Microsoft | Engineering Manager](https://leetcode.com/discuss/interview-experience/1260613/microsoft-engineering-manager-hyderabad-may-2021-offer/969476)
 
 ---
+
+## Behavioral Interviews
+
+- [Ashish Pratap's Repo](https://github.com/ashishps1/awesome-behavioral-interviews)
+
+---
+
+## Learn Go
+
+- [Go by Karan Pratam Singh](https://www.karanpratapsingh.com/courses/go)
+
+---
+
+## SQL
+
+- [Leetcode SQL](https://leetcode.com/studyplan/top-sql-50/)
+
+---
+
+## Operating Systems
+
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Contributing
 
