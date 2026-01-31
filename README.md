@@ -235,6 +235,7 @@ This section contains all the DS Algo resources.
 
 - [Memory in AI Agents](https://www.leoniemonigatti.com/blog/memory-in-ai-agents.html)
 - [Production-Grade Agentic AI System](https://github.com/FareedKhan-dev/production-grade-agentic-system/)
+- [Evolving Contexts for Self-Improving LLMs](https://arxiv.org/pdf/2510.04618)
 - [Amazon Bedrock for building AI Agents](https://aws-samples.github.io/amazon-bedrock-samples/)
 
 ---
