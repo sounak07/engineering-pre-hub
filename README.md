@@ -16,12 +16,13 @@ This repository aims at providing collated content at a single place to prepare 
 - [AI Agents](#ai-agents)
 - [FrontEnd Resources](#frontend-resources)
 - [Great Python](#great-python)
-- [Large Language Models](#large-language-models)
+- [AI Engineering](#ai-engineering)
 - [Learn Shell & Bash](#learn-shell-bash)
 - [Interview Experiences](#interview-experiences)
 - [Behavioral Interviews](#behavioral-interviews)
 - [Learn Go](#learn-go)
 - [SQL](#sql)
+- [Database](#database)
 - [Performance Mastery](#performance-mastery)
 - [Operating Systems](#operating-systems)
 
@@ -237,6 +238,13 @@ This section contains all the DS Algo resources.
 - [Production-Grade Agentic AI System](https://github.com/FareedKhan-dev/production-grade-agentic-system/)
 - [Evolving Contexts for Self-Improving LLMs](https://arxiv.org/pdf/2510.04618)
 - [Amazon Bedrock for building AI Agents](https://aws-samples.github.io/amazon-bedrock-samples/)
+- [Agentic AI – DeepLearning.AI (Andrew Ng)](https://www.deeplearning.ai/courses/agentic-ai/)
+- [LLMs as Operating Systems (Agent + Memory)](https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/)
+- [Agentic Systems Paper (arXiv 2601.11888)](https://arxiv.org/pdf/2601.11888)
+- [Context Engineering: Sessions & Memory (Kaggle Whitepaper)](https://www.kaggle.com/whitepaper-context-engineering-sessions-and-memory)
+- [Context Engineering (Momo Research)](https://github.com/momo-personal-assistant/momo-research/blob/main/Context%20Engineering%3A%20Sessions%2C%20Memory.md)
+- [Understanding AI Agents – STM, LTM, WM](https://pradyumnachippigiri.dev/blogs/understanding-ai-agents#stm)
+- [Architecting Agent Memory](https://www.youtube.com/watch?v=W2HVdB4Jbjs)
 
 ---
 
@@ -272,18 +280,29 @@ This section contains all the Python related resources.
 
 ---
 
-## Large Language Models
+## AI Engineering
 
+- [GKCS AI Engineering](https://github.com/InterviewReady/ai-engineering-resources)
 - [Andrej Karpathy's LLM](https://www.youtube.com/@AndrejKarpathy/videos)
 - [All in one LLM](https://github.com/mlabonne/llm-course)
+- [Andrej Karpathy – Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [Andrej Karpathy – Deep Dive into LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+- [Andrej Karpathy – How to Use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+- [Chip Huyen – AI Engineering Book](https://github.com/chiphuyen/aie-book/tree/main)
+- [All RAG Techniques](https://github.com/Shubhamsaboo/all-rag-techniques)
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [500 AI Agent Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+- [Awesome AI Apps](https://github.com/Arindam200/awesome-ai-apps)
+- [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills)
+- [The Ralph Wiggum Approach – Long-Running Coding Agents](https://dev.to/sivarampg/the-ralph-wiggum-approach-running-ai-coding-agents-for-hours-not-minutes-57c1)
+- [Building AI Agents with Memory (AWS Bedrock AgentCore)](https://pub.towardsai.net/building-ai-agents-with-memory-a-practical-guide-to-aws-bedrock-agentcore-memory-60b38ac07fc5)
+- [Give Your AI Agents Persistent Memory (mem0)](https://dev.to/abdibrokhim/give-your-ai-agents-persistent-memory-with-mem0-3eff)
+- [Context Engineering Without Breaking Token Budgets](https://dev.to/akshaygupta1996/context-engineering-giving-ai-agents-memory-without-breaking-the-token-budget-1ho5)
+- [Building Intelligent AI Agents with Memory](https://dev.to/bredmond1019/building-intelligent-ai-agents-with-memory-a-complete-guide-5gnk)
 
 ---
 
 ## Learn Shell Bash
-
-This section contains all the Shell and bash learning contents.
-
-### Shell & Bash Resources
 
 - [Linux Commands](https://docs.google.com/document/d/1BCJ3iRYAif4MGxEn9j5N6dyu8-0YGA5xgHq-ldnV3po/edit#heading=h.mn2atvyoqdiv)
 - [Bash Commands](https://github.com/onceupon/Bash-Oneliner)
@@ -292,8 +311,6 @@ This section contains all the Shell and bash learning contents.
 ---
 
 ## Interview Experiences
-
-This section contains all the noteworthy interview experiences.
 
 - [Microsoft | Github | FB | Etc. Interview Preparation Journey](https://leetcode.com/discuss/interview-experience/1264757/microsoft-github-fb-etc-interview-preparation-journeystrategy)
 - [Microsoft | Engineering Manager](https://leetcode.com/discuss/interview-experience/1260613/microsoft-engineering-manager-hyderabad-may-2021-offer/969476)
@@ -317,9 +334,17 @@ This section contains all the noteworthy interview experiences.
 - [Performance hints](https://abseil.io/fast/hints.html)
 - [Perf Ninja](https://github.com/dendibakh/perf-ninja)
 
+---
+
 ## SQL
 
 - [Leetcode SQL](https://leetcode.com/studyplan/top-sql-50/)
+
+---
+
+## Databases
+
+- [Database Transactions](https://planetscale.com/blog/database-transactions)
 
 ---
 
