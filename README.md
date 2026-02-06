@@ -22,7 +22,7 @@ This repository aims at providing collated content at a single place to prepare 
 - [Behavioral Interviews](#behavioral-interviews)
 - [Learn Go](#learn-go)
 - [SQL](#sql)
-- [Database](#database)
+- [Databases](#databases)
 - [Performance Mastery](#performance-mastery)
 - [Operating Systems](#operating-systems)
 
@@ -158,6 +158,7 @@ This section contains all the high level system design resources.
 ### Databases
 
 - [How database works (Write Your own database)](https://cstack.github.io/db_tutorial/)
+- [Transaction in SQL databases](https://planetscale.com/blog/database-transactions)
 - [Build your own KV Database](https://www.nan.fyi/database)
 - [PostgresQL Snowflake blogs](https://www.snowdba.com/postgresql-blogs/)
 - [Database Concepts (Core Dump)](https://www.youtube.com/playlist?list=PLwrbo0b_XxA8BaxKRHuGHAQsBrmhYBsh1)
