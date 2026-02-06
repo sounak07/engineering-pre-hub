@@ -343,12 +343,6 @@ This section contains all the Python related resources.
 
 ---
 
-## Databases
-
-- [Database Transactions](https://planetscale.com/blog/database-transactions)
-
----
-
 ## Operating Systems
 
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
